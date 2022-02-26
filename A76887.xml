@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloody news from Angel-Alley in Bishopgate-Street, being a true and full account of the cruel murdering of one Dorothy Jewers, who on Fryday last, the 27th of September, was barbarously robbed and kill'd by two of her lodgers. : With an account how she was at first found dead, and also how these murderers after they had committed this bloody fact made their escape.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76887</idno>
+            <idno type="STC">Wing B3261B</idno>
+            <idno type="STC">ESTC R172792</idno>
+            <idno type="EEBO-CITATION">45578159</idno>
+            <idno type="OCLC">ocm 45578159</idno>
+            <idno type="VID">172115</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76887)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172115)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2615:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloody news from Angel-Alley in Bishopgate-Street, being a true and full account of the cruel murdering of one Dorothy Jewers, who on Fryday last, the 27th of September, was barbarously robbed and kill'd by two of her lodgers. : With an account how she was at first found dead, and also how these murderers after they had committed this bloody fact made their escape.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D.M.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance."</note>
+                  <note>P. 4 numbered "5."</note>
+                  <note>Imperfect: print bleed-through.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jewers, Dorothy, d. 1678.</term>
+               <term>Murders --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172115:1"/>
+            <pb facs="tcp:172115:1" rendition="simple:additions"/>
+            <p>Bloody News FROM Angel-Alley IN <hi>BISHOPSGATE-STREET,</hi> BEING A full and true Account of the cruel Mur<g ref="char:EOLhyphen"/>dering of one <hi>Dorothy Jewers,</hi> who on <hi>Fry<g ref="char:EOLhyphen"/>day</hi> laſt, the 27th of <hi>September,</hi> was bar<g ref="char:EOLhyphen"/>barouſly robbed and kill'd by two of her Lodgers.</p>
+            <p>WITH An Account how ſhe was at firſt found dead, and alſo how theſe Murderers after they had committed this bloody Fact made their eſcape.</p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>D. M.</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:172115:2"/>
+            <pb n="3" facs="tcp:172115:2"/>
+            <head>Bloody News FROM Angel-Alley IN <hi>Biſhops-Gate-Street.</hi>
+            </head>
+            <p>The horror of this enſuing Relation, is too great to need any amplicati<g ref="char:EOLhyphen"/>on, or the needleſs imbeliſhment of a ſtarch'd Exordium; I ſhall therefore without putting either my ſelf or the Reader to farther trouble, give him a candid
+<pb n="5" facs="tcp:172115:3"/>and true account of a diſmal accident, which happened in <hi>Angel Allie,</hi> in <hi>Biſhops Gate Street.</hi> Towards the upper end of which Al<g ref="char:EOLhyphen"/>lie, over againſt the <hi>Roſe Alehouſe,</hi> there has liv'd for ſome time an antient induſtrious widow, <hi>Dorothy Jewers</hi> who by her good huſwifry had obtained ſo much as made her eſteemed very wealthy, conſidering the meanneſs of her quality; her common way of livelyhood being to deal in old Goods which were expos'd to ſale, and having rea<g ref="char:EOLhyphen"/>dy mony many times bought them to great advantage; by this and the like means, the report of her Eſtate, in Plate and mony, be<g ref="char:EOLhyphen"/>came generally talkt of, that it is to be fear'd, at length the fame of it reacht the Ears of two young perſons of different Sexes, who on the one and twentieth of this inſtant September, came to enquire for a Lodging at her houſe, which ſhe having ready to diſpoſe of, with<g ref="char:EOLhyphen"/>out much ſcruple, ſet it them at ſo much <hi>per</hi> week; but the ſad event of her ſo doing, will not let me omit giving the Reader a kind warning, to take care not to follow her ex<g ref="char:EOLhyphen"/>ample,
+<pb n="5" facs="tcp:172115:3"/>but to be cautious and circumſpect whom either he or ſhe admits under the dan<g ref="char:EOLhyphen"/>gerous ſhelter of their own Roof, for by this means many Maſters and Miſtreſſes of Fami<g ref="char:EOLhyphen"/>lies themſelves have loſt their Reputati<g ref="char:EOLhyphen"/>on, and their Goods, nay and their lives to boot, which have been brought to a ſhame<g ref="char:EOLhyphen"/>ful Cataſtrophe, meerly for want of that Care and induſtry which is abſolutely requiſite in ſuch Caſes.</p>
+            <p>This unfortunate VVoman in <hi>Angel-All<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> little conſidered what ſhe had done, when ſhe let theſe unknown Perſons have a free <hi>Egreſs</hi> and <hi>Regreſs</hi> out and into her Houſe, as well as her ſelf; and by ſo doing ran indeed too great a hazard for that incon<g ref="char:EOLhyphen"/>ſiderable benefit ſhe was to receive of them, had they prov'd really honeſt. But alas, two or three days experience of their cautious and timerous Conver<g ref="char:EOLhyphen"/>ſations, offer'd her ſo much reaſon to think they were either ingag'd in the VVorld, or elſe had in a baſe manner abus'd it, that ſhe grew in that ſmall time weary of their Companies, and therefore warn'd them to provide a new Habitation againſt that VVeek expir'd; for that ſince they did not give her that Teſtimony of their honeſty which at their en<g ref="char:EOLhyphen"/>trance they promiſed, ſhe was reſolved to be trou<g ref="char:EOLhyphen"/>bled with them no longer. Her Lodgers ſeem'd ve<g ref="char:EOLhyphen"/>ry
+<pb n="6" facs="tcp:172115:4"/>little concern'd at the News, only deſiring of her that during that time they might injoy their Lodging in friendſhip and content; and at the VVeeks-end they would honeſtly pay her, according to their Covenant, and leave her. VVhereupon ſhe ſaid little to them afterwards, but much won<g ref="char:EOLhyphen"/>dred to ſee them take ſuch extraordinary care to skulk in and out of Doors at ſuch unſeaſonable hours, as none, no not their very next Neighbours, could ever ſet ſight of them; nor can now give a<g ref="char:EOLhyphen"/>ny account of them, or tell what manner of Perſons they were.</p>
+            <p>But ſince, it is eaſily imagin'd this unuſual deſire of concealment was not by reaſon of Debt, or any worldly Ingagements; but with full and premedi<g ref="char:EOLhyphen"/>tated deſign that they might the better commit their intended Murder, and after more ſecurely make their eſcape.</p>
+            <p>For on <hi>Fryday</hi> the <hi>27th</hi> Inſtant, (and the day be<g ref="char:EOLhyphen"/>fore the expiration of the fore-mentioned VVeek they were to ſtay with her) about eight of the Clock in the Evening, they both came, very ſeem<g ref="char:EOLhyphen"/>ingly kind, down to their Land-Lady, and telling her they had bought a piece of Pork for Supper, de<g ref="char:EOLhyphen"/>ſir'd, that ſince it was the laſt Night they were to be in her Houſe, ſhe would do them the favour to go up-ſtairs into their Room and take ſhare of it, and a Glaſs of Ale, and be merry with them before their departure; (this ſhe declared to ſeveral Neighbours before ſhe went up) the good VVoman little ſuſ<g ref="char:EOLhyphen"/>pecting they durſt be ſo impudently wicked, as to at<g ref="char:EOLhyphen"/>tempt
+<pb n="7" facs="tcp:172115:4" rendition="simple:additions"/>any thing on her Life, eſpecially at ſaith a ſeaſonable hour as all her Neighbours were ſtirring, accepted the invitation, and went up with them, vvhere, in order to the expected Supper, ſhe ſavv the Board fairly laid vvith Napkins, Trenchers, and all things requiſite in thoſe caſes.</p>
+            <p>The particular of every Action which paſſed among them, is impoſſible as yet to be related; the tvvo chief Actors of them being her two Lodgers, who are ſince fled: But this is certain, that the good Woman, who had left her Door o<g ref="char:EOLhyphen"/>pen, ſtaid above Stairs ſo long, that ſome of her Neighbours, who had never before ſeen her negli<g ref="char:EOLhyphen"/>gent in that kind, went to her Houſe to advertiſe her of it; but finding her not below Stairs, at firſt knockt, but receiving no anſwer, went up ſtairs, and found the poor VVoman ſtark dead, but in a ſtrugling poſture, with a Cambrick Handkerchief, thruſt, as 'tis immagin'd with a Bed-ſtaff, which lay by her, asfar down her Throat as poſſibly they could ram it, in ſo much that they had rent her Mouth, and a Napkin, with which 'tis thought they firſt ſtrangled her, ty'd ſo extremely hard a<g ref="char:EOLhyphen"/>bout her Neck, that it was impoſſible for her to take her breath, much leſs make any noiſe that her Neighbours might have come in to her <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<g ref="char:EOLhyphen"/>ſiſtance, 'Twas about the hour of nine when ſhe was firſt found in this lamentable condition; and it is credibly reported that about a quarter of an hour before, the ſhe Lodger came to the Door, and per<g ref="char:EOLhyphen"/>ceiving a VVoman, who kept the oppoſite Ale-houſe,
+<pb n="8" facs="tcp:172115:5"/>to ſtand at the Door, ſhe ran boldly to her, and told her ſhe wanted three pints of Drink, which whilſt the Hoſteſs was fetching, ſhe and her pretended Huſ<g ref="char:EOLhyphen"/>band made their eſcape, taking along with them many things, whereof, as yet, we have no par<g ref="char:EOLhyphen"/>ticular.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
